@@ -8,7 +8,7 @@
 <title>GB Project</title>
 <link rel="stylesheet" href="Views/bootstrap.min.css">
 <script src="Component/jquery-3.6.0.min.js"></script>
-<script src="Component/items.js"></script>
+<script src="Component/projects.js"></script>
 </head>
 <body>
 	<div class="container">
